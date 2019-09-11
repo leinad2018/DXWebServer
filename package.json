@@ -18,5 +18,9 @@
   "homepage": "https://github.com/leinad2018/DXWebServer#readme",
   "devDependencies": {
     "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
   }
 }
