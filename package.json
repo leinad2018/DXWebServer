@@ -1,0 +1,22 @@
+{
+  "name": "dxwebserver",
+  "version": "1.0.0",
+  "description": "A web server for serving html files from a local server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leinad2018/DXWebServer.git"
+  },
+  "author": "Daniel Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leinad2018/DXWebServer/issues"
+  },
+  "homepage": "https://github.com/leinad2018/DXWebServer#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
